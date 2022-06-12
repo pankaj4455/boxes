@@ -1,0 +1,110 @@
+.child1{
+display: flex;
+justify-content: flex-end;
+
+}
+#pd{
+    padding: 20px;
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+.child{
+    display: flex;
+    justify-content: flex-start;
+
+}
+p{
+    padding: 20px;
+}
+#para{
+    width: 20px;
+    height: 20px;
+    background-color: antiquewhite;
+    border: 1px solid darkgrey;
+    border-radius: 50%;
+}
+.brd{
+    width: 20px;
+    height: 20px;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    border: 1px solid darkgray;
+}
+.btn{
+    width: 100px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.box{
+    width: 100px;
+    height: 80px;
+    border: 1ps;
+    background-color: azure;
+    border: 1px solid darkgrey;
+}
+#p{
+padding: 40px 0px 0px 40px;
+}
+.boxm{
+    width: 98%;
+    height: 140px;
+    border: 1px solid darkgray;
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxm a{
+    text-decoration: none;
+    color: black;
+    margin-top: 90px;
+
+}
+#sp{
+    position: absolute;
+    top:300px;
+    right: 200px;
+    padding: 20px;
+ 
+}
+#sps{
+    position: absolute;
+    top:320px;
+    right: 100px;
+  }
+  .boxes{
+    width: 98%;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 300px;
+    border: 1px solid black;
+    grid-gap: 30px;
+  }
+  #item{
+    width: 300px;
+    height: 250px;
+    border: 1px solid black;
+  }
+  .btn{
+    background-color: blue;
+  }
+  .texts{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 50%;
+   margin-left: 100px;
+  }
+  #btns{
+    width: 270px;
+
+background-color: blue;
+border-radius: 20px;
+  }
+
+
