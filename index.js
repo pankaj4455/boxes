@@ -1,3 +1,12 @@
 document.getElementById('click').onclick=function(){
     location.href="https://pankaj4455.github.io/lastfolder/";
 }
+document.getElementById('click1').onclick=function(){
+    location.href="https://pankaj4455.github.io/lastfolder/";
+}
+document.getElementById('click2').onclick=function(){
+    location.href="https://pankaj4455.github.io/lastfolder/";
+}
+document.getElementById('click3').onclick=function(){
+    location.href="https://pankaj4455.github.io/lastfolder/";
+}
